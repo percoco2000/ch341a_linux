@@ -7,3 +7,5 @@ ch341eeprom --> https://github.com/command-tab/ch341eeprom for I2C operations
 After launch, the script check for the presence of the two softwares and the programmer. Then a menu is displayed with some self explaining choice.
 
 Xch341a is a graphical version of the script using Xdialog
+
+Stored here a version of flashrom that compile with make instead of meson
